@@ -1,2 +1,8 @@
-# escalonamento-de-gauss
-Aplicação feita em C++ e com a biblioteca gráfica Qt, para escalonamento de matrizes por meio do método de Gauss ou por Gauss-Jordan
+# Gaussian elimination
+
+  Algorithm for solving system of linear equations throught Gaussian elimination. It also supports Gauss–Jordan elimination to convert the matrix into reduced row echelon form.
+
+- C++
+- Qt Creator 3.0.1
+- Qt 5.2.1
+- GCC 4.8.2, 64 bit
